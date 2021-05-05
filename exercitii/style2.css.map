@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,WAAW,CAAC;EEFR,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,KAAK;EFGZ,gBAAgB,ECLZ,wBAAuB;EDM3B,MAAM,EAAC,GAAG,CAAC,KAAK,CCLZ,KAAK;CDMZ",
+    "sources": [
+        "style2.scss",
+        "_variables.scss",
+        "_mixins.scss"
+    ],
+    "names": [],
+    "file": "style2.css"
+}

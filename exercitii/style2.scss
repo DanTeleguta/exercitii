@@ -1,0 +1,14 @@
+@import "variables";
+@import "mixins";
+
+
+.div-patrat {
+    @include div-patrat;
+    background-color: $color1;
+    border:5px solid $color2;
+ 
+}
+.parinte {
+    display:flex;
+    flex-direction: row;
+}
